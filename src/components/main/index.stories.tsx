@@ -11,8 +11,3 @@ export default {
 } as Meta;
 
 export const Template: Story = (args) => <Main {...args} />;
-// Template.args = {
-//     title: "oi",
-//     description: "ola"
-// };
-// export const Basic = Template.bind({});
